@@ -1,0 +1,22 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "This is to test automation using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aum36/testing-jest.git"
+  },
+  "author": "Aum K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aum36/testing-jest/issues"
+  },
+  "homepage": "https://github.com/Aum36/testing-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
